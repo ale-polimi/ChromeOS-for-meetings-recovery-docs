@@ -12,16 +12,16 @@ This documentation can be used in the following cases:
 1. The Chromebox is a new device that needs to be used in Meetings mode;
 2. The Chromebox was a Meetings device in use that suffered a hardware or software failure (corrupt OS, failed disk, etc.) and needs to return to Meetings mode;
 
-In the former case you can skip the `Deprovisioning` step, in the latter you can't.
+In the former you can skip the `Deprovisioning` step, in the latter you can't.
 
 The following flow chart will sum up the entire procedure:
 
 ```mermaid
 flowchart TD
-	A{Is the Chromebox brand new?}-- NO -->B[Deprovisioning]
+	A{"`Is the Chromebox brand new (never enrolled)?`"}-- NO -->B[Deprovisioning]
 	B ---> C[ChromeOS recovery]
 	A-- YES ----> C
-	C --> D{What version of ChromeOS is on the device?}
+	C --> D{"`What version of ChromeOS is on the device?`"}
 	D-- "<= 90" --->E["ChromeOS recovery (v.90 or lower)"]
 	D-- "> 90" --->F["ChromeOS recovery (v.91 or higher)"]
 ```
