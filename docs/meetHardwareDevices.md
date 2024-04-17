@@ -1,0 +1,24 @@
+# Meet Compute Systems
+
+- Acer
+  - Chromebase 24
+  - Chromebase CA24I2
+  - Chromebox CXI2 / CXV2
+- Asus
+  - Chromebox 2 (CN62)
+  - Chromebox 3 (CN65)
+  - Meet Compute System
+  - Meet Compute System (Intel 10th Gen)
+  - Meet Compute System (Intel 13th Gen)
+- Avocor
+  - Series One Board 65
+  - Series One Desk 27
+- CTL
+  - Chromebox CBx1
+  - Meet Compute System
+  - Meet Compute System (Intel 10th Gen)
+  - Meet Compute System (Intel 13th Gen)
+- Lenovo
+  - Meet Compute System - Series One
+  - Meet Compute System - Series One (Intel 10th Gen)
+  - Meet Compute System - Series One (Intel 13th Gen)

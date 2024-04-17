@@ -33,7 +33,7 @@ flowchart TD
 3. Click on the device and click `DEPROVISION` on the menu on the left;
 4. Choose if you want to remove or keep the data, check the box to confirm the actions and select `Same model replacement`.
 
-All done here. Proceed to the recovery step.
+All done here, proceed to the recovery step.
 
 # ChromeOS recovery
 

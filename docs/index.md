@@ -3,6 +3,7 @@
 ```
 ./
   index.md                     This file
+  meetHardwareDevices.md       List of Meet Compute Systems
   sources.md                   Sources for the documentation
 ./en/                          
      index.md                  Prerequisites and deprovisioning
@@ -17,6 +18,7 @@
 ```
 ./
   index.md                     Questo file
+  meetHardwareDevices.md       Lista di Meet Compute Systems
   sources.md                   Fonti per la documentazione
 ./en/                          
      index.md                  Pre-requisiti e deprovisioning

@@ -20,7 +20,7 @@ Il seguente diagramma di flusso riassume la procedura:
 flowchart TD
 	A{"`Il Chromebox è nuovo (mai fatto enrollment)?`"}-- NO -->B[Deprovisioning]
 	B ---> C[Recovery di ChromeOS]
-	A-- YES ----> C
+	A-- SI ----> C
 	C --> D{"`Quale versione di ChromeOS è presente sul dispositivo?`"}
 	D-- "<= 90" --->E["Recovery di ChromeOS (v.90 o minore)"]
 	D-- "> 90" --->F["Recovery di ChromeOS (v.91 or maggiore)"]

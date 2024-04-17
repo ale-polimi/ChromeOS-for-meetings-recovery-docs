@@ -8,7 +8,7 @@ I decided to write this documentation from the ground up after noticing that the
 
 All the sources used to write this documentation can be found in the [sources.md](./docs/sources.md) file.
 
-The first step can be found [here](./docs/en/index.md)
+[Click here if you're ready to start](./docs/en/index.md).
 
 ### Legal disclosure
 
@@ -28,7 +28,7 @@ Ho deciso di scrivere questa documentazione per necessità, dopo aver notato che
 
 Tutte le fonti utilizzate per redigere questa documentazione si possono trovare nel file [sources.md](./docs/sources.md).
 
-Il primo passo è disponibile [qui](./docs/it/index.md).
+[Cliccare qui per iniziare](./docs/it/index.md).
 
 ### Nota legale
 
