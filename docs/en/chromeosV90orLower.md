@@ -2,7 +2,7 @@
 
 If your device is in [this list](../meetHardwareDevices.md) download on Chrome [this extension](https://chrome.google.com/webstore/detail/meet-compute-system-recov/odkacekibiibhidpiopcmgbgebkeoced) for Meet Compute Systems, otherwise use [this one](https://chrome.google.com/webstore/detail/chromebook-recovery-utili/pocpnlppkickgojjlmhdmidojbmbodfm) for generic ChromeOS devices.
 
-Follow the instructions on screen to create a recovery USB drive.
+Open the extension, connect the USB drive and follow the instructions on screen to create a recovery USB drive.
 
 # 2. System recovery
 
@@ -21,4 +21,6 @@ When ChromeOS is completely reinstalled you'll be greeted with the welcome scree
 
 Select `Yes`.
 
-The Chromebox will then set up for use in Meetings mode. Log in as a Google Workspace admin and complete the setup.
+The Chromebox will then set up for use in Meetings mode. Ignore the discovery of USB devices (mouse) and continue with the keyboard. Log in as a Google Workspace admin and complete the setup.
+
+Once you're on the main screen of Meet mode you can connect a mouse for easier navigation.
