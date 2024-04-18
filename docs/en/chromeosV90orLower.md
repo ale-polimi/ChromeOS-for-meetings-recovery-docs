@@ -22,5 +22,3 @@ When ChromeOS is completely reinstalled you'll be greeted with the welcome scree
 Select `Yes`.
 
 The Chromebox will then set up for use in Meetings mode. Log in as a Google Workspace admin and complete the setup.
-
-If you Google Workspace policies allow for automatic enrollment your job is done, otherwise manually enroll the device.
