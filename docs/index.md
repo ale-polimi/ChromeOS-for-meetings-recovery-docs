@@ -20,7 +20,7 @@
   index.md                     Questo file
   meetHardwareDevices.md       Lista di Meet Compute Systems
   sources.md                   Fonti per la documentazione
-./en/                          
+./it/                          
      index.md                  Pre-requisiti e deprovisioning
      chromeosV90orLower.md     Istruzioni per la recovery di dispositivi con ChromeOS fino alla versione 90 inclusa
      chromeosV91orHigher.md    Istruzioni per la recovery di dispositivi con versioni più recenti di ChromeOS
