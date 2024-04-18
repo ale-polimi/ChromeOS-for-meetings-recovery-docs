@@ -7,15 +7,15 @@ If your device is in [this list](../meetHardwareDevices.md) download on Chrome [
 > [!IMPORTANT]
 > Before continuing, remove **all** USB devices from the Chromebox except a keyboard.
 
-Follow the [official steps](https://support.google.com/a/answer/10562922?hl=en#zippy=%2Cstep-enter-recovery-mode) from Google to reinstall ChromeOS.
+Create the recovery media using the extension you downloaded before, then follow the [official steps](https://support.google.com/a/answer/10562922?hl=en#zippy=%2Cstep-enter-recovery-mode) from Google to reinstall ChromeOS, starting from `Step 2: Enter recovery mode`.
 
 When ChromeOS is completely reinstalled you'll be greeted with the welcome screen:
 
-[!Alt text](../images/welcome.jpg)
+![alt text](../images/welcome.jpg)
 
 Do not continue with the setup, instead press `Ctrl + Alt + H`, a popup will appear:
 
-[!Alt text](../images/meet_mode.jpg)
+![alt text](../images/meet_mode.jpg)
 
 Select `Yes`.
 
