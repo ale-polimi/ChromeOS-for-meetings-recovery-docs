@@ -11,3 +11,5 @@ https://www.reddit.com/r/chromeos/comments/nrmkei/possible_to_put_asus_chromebox
 https://www.reddit.com/r/chromeos/comments/ppekbb/asus_chromebox_4_is_not_launching_google_meet/
 
 https://www.asus.com/us/support/faq/1044189/
+
+https://www.youtube.com/watch?v=asgILHbz2i0

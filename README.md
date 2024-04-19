@@ -18,6 +18,10 @@ The documentation is purely based on personal experience and is published AS-IS 
 
 This project is distributed under [MIT license](./LICENSE), all the limitations described in said license apply.
 
+### Found an error in the guide?
+
+Open a new issue on the repo.
+
 ---
 
 ## [IT] La documentazione completa non ufficiale per la recovery dell'OS su dispositivi ChromeOS for Meetings
@@ -37,3 +41,7 @@ Questa documentazione è puramente basata su esperienza personale ed è pubblica
 ### Copyright e licenza
 
 Questo progetto è distribuito sotto [licenza MIT](./LICENSE), si applicano le limitazioni descritte in tale licenza.
+
+### Trovato qualche errore nella guida?
+
+Aprire una nuova issue nel repo.
