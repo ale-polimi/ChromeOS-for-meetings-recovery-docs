@@ -4,7 +4,7 @@
 
 ### Introduction
 
-I decided to write this documentation from the ground up after noticing that the official Google documentation about Chromebox for Meeting devices is spotty at best.
+I decided to write this documentation from the ground up after noticing that the official Google documentation about Chromebox for Meeting devices is spotty at best, especially regarding recovery of a system after a hardware/software failure.
 
 All the sources used to write this documentation can be found in the [sources.md](./docs/sources.md) file.
 
@@ -28,7 +28,7 @@ Open a new issue on the repo.
 
 ### Introduzione
 
-Ho deciso di scrivere questa documentazione per necessità, dopo aver notato che la documentazione ufficiale di Google riguardo dispositivi Chromebox for Meetings ha diverse lacune.
+Ho deciso di scrivere questa documentazione per necessità, dopo aver notato che la documentazione ufficiale di Google riguardo dispositivi Chromebox for Meetings ha diverse lacune, specialmente riguardo la recovery di un dispositivo a seguito di guasti hardware/software.
 
 Tutte le fonti utilizzate per redigere questa documentazione si possono trovare nel file [sources.md](./docs/sources.md).
 
