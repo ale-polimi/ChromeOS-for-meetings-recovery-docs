@@ -1,5 +1,7 @@
 # Unofficial ChromeOS for meetings recovery docs
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
+
 ## [EN] A comprehensive documentation for OS recovery on ChromeOS for Meetings devices.
 
 ### Introduction
